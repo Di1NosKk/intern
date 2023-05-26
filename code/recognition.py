@@ -80,14 +80,14 @@ def recogAll(path, save_path, trash_path):
 def main():
     ## initialize path
     date = "\\18\\"
-    path1 = r"C:\Users\Administrator\Desktop"
+    path1 = r"/home/albay/djs/data/Purchase/"
     
     read_path = path1 + date
     save_path =  read_path + "\\docx\\"
     
-    path2 = r"C:\Users\Administrator\Desktop\reg"
+    path2 = r"/home/albay/djs/data/Purchase_2/"
     bid_path = path2 + date
-    trash_path = r"C:\Users\Administrator\Desktop\trash" + date
+    trash_path = r"/home/albay/djs/trash/" + date
     
     print(read_path)
     print(save_path)
