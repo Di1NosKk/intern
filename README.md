@@ -4,7 +4,8 @@ Dealing with Large model and Training
 NLP work 
 docker, linux 
 
-## Bid Announcement Information Extraction 
+## gonggao
+Bid Announcement Information Extraction 
 
 1. bid registration info extraction
 2. bid basic info extraction (ie. 项目编号)
@@ -15,6 +16,8 @@ docker, linux
 Details in 公告信息抽取项目.png
 
 ## zujian-nlp
+zujian-nlp
+Model: https://huggingface.co/diinoskk/intern_model
 
 Dealing with NLP project
 1. text summarization
@@ -34,7 +37,8 @@ structure diagram: 融服务平台服务支撑组件结构图.png
 
 Details in 融组件服务项目.png
 
-## Automatic identification system for bidding files
+## zhaobiaoshu
+Automatic identification system for bidding files
 
 Multi-process pool dealing with recognition for bid files
 First Step: 
